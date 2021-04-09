@@ -17,8 +17,8 @@ var outputCount;
 var screenX = document.documentElement.clientWidth;
 var screenY = document.documentElement.clientHeight ;
 //江口アニメ関連
-var eguchiStandAnime = "Chick2.gif" ;
-var eguchiWalkAnime = "Chick1.gif" ;
+var eguchiStandAnime = "https://github.com/nearkillit/eguchi/blob/efb36b0261dcde836412dd6b81bbda928606a0cf/Chick2.gif" ;
+var eguchiWalkAnime = "https://github.com/nearkillit/eguchi/blob/efb36b0261dcde836412dd6b81bbda928606a0cf/Chick1.gif" ;
 //マウスポインタの位置
 var mouseX ;
 var mouseY ;
