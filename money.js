@@ -3,8 +3,8 @@ var moneyPosition = [-30,-20,-10,0,10,20,30,40,50] ;
 var moneyPositionFlag = [0,0,0,0,0,0,0,0,0] ;
 var moneyPositionNumber = 9 ;
 var moneyNumber = 0;
-var moneyAnimeNormal = 'eguchi/money1.png';
-var moneyAnimeMany = 'eguchi/money2.png';
+var moneyAnimeNormal = 'money1.png';
+var moneyAnimeMany = 'money2.png';
 var moneyManyProbab = 16 ;
 
 function moneySet(){
